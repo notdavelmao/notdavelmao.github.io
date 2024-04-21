@@ -1,7 +1,3 @@
-title: 'py-build-cmake'
-
-github:
-
-  is_project_page: false
-
 remote_theme: pages-themes/minimal@v0.2.0
+name: kuromer
+title: null
